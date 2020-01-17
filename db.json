@@ -11,6 +11,10 @@
       {
         "id": 3,
         "name": "ice cream"
+      },
+      {
+        "id": 4,
+        "name": "pickles"
       }
    ]
 }
